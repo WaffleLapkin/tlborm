@@ -103,7 +103,7 @@ Specifically syntax extensions can appear in place of the following:
 * Patterns
 * Statements
 * Expressions
-* Items(this includes `impl` items)
+* Items (this includes `impl` items)
 * Types
 
 Some things *not* on this list:
